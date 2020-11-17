@@ -24,6 +24,8 @@ In order to run SLE4442 Card Manager, you need Pyscard library.
 
 you can find it here: https://github.com/LudovicRousseau/pyscard
 
+## Note: pyscard requires swig, libpcsclite-dev
+
 ### Installing
 
 Just copy the files to your computer and run 'sle4442.py'
